@@ -1,0 +1,12 @@
+[user]
+    name = Jose Tavares
+    email = josetavares00@gmail.com
+
+[alias]    
+    br = branch
+    st = status -sb
+    ci = commit
+    co = checkout
+    info = remote show origin
+    update = remote update origin --prune
+
